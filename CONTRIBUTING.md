@@ -32,6 +32,14 @@ Forks credit the original authors in `plugin.rb` / `about.json` as
   `cd /var/discourse && ./launcher rebuild app`.
 - Do not test on the live forum.
 
+## Front end / UI
+
+- **Air.** Every card or box keeps visible padding (`--space-4` at least,
+  `--space-5`/`--space-6` on featured cards) and a gap between image and text. Spacing
+  only with `--space-*` variables, never fixed pixels.
+- **Colours** only from Discourse variables (`--primary-*`, `--secondary`, …), so light
+  and dark schemes follow on their own.
+
 ## Conventions
 
 - **README** in English (`README.md`) and Spanish (`README.es.md`): the title, a
