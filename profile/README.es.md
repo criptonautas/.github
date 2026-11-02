@@ -40,6 +40,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-closed-sidebar-nautas](https://github.com/somos-criptonautas/discourse-closed-sidebar-nautas) — barra lateral oculta por defecto
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — aviso diario en la portada con temas #kuno y las recaudaciones de Kuno que apoyamos
 - [discourse-nautas-paper-trading](https://github.com/somos-criptonautas/discourse-nautas-paper-trading) — paper trading de swing en un artifact: 1.000 USD ficticios sobre velas reales de 4h, un ranking que nadie puede inflar, temporadas de 4 meses
+- [discourse-crypto-tickers-nautas](https://github.com/somos-criptonautas/discourse-crypto-tickers-nautas) — precios cripto en USD desde CoinGecko para la barra lateral derecha, sin porcentajes
 
 ### Discourse — forks que mantenemos
 
