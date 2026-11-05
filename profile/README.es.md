@@ -52,6 +52,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-category-lockdown-nautas](https://github.com/somos-criptonautas/discourse-category-lockdown-nautas) — las categorías bloqueadas redirigen al tema que las describe (fork de [paviliondev](https://github.com/paviliondev/discourse-category-lockdown))
 - [discourse-animated-avatars-nautas](https://github.com/somos-criptonautas/discourse-animated-avatars-nautas) — avatares GIF, separados para perfil y tarjeta de usuario (fork de [discourse](https://github.com/discourse/discourse-animated-avatars))
 - [discourse-search-nautas](https://github.com/somos-criptonautas/discourse-search-nautas) — sugiere nuestra instancia de SearXNG cuando una búsqueda no da resultados (fork de [notriddle](https://github.com/notriddle/discourse-duckduckgo-search))
+- [f-nav-for-mobile-nautas](https://github.com/somos-criptonautas/f-nav-for-mobile-nautas) — barra inferior para móviles, también en `/chat` en lugar del pie del chat, con un regreso al foro (fork de [VaperinaDEV](https://github.com/VaperinaDEV/f-nav-for-mobile))
 - [discourse-theme-skills](https://github.com/somos-criptonautas/discourse-theme-skills) — skills de Claude Code para desarrollar temas de Discourse (fork de [discourse](https://github.com/discourse/discourse-theme-skills))
 
 ### Ghost

@@ -52,6 +52,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-category-lockdown-nautas](https://github.com/somos-criptonautas/discourse-category-lockdown-nautas) — locked categories redirect to their own description topic (fork of [paviliondev](https://github.com/paviliondev/discourse-category-lockdown))
 - [discourse-animated-avatars-nautas](https://github.com/somos-criptonautas/discourse-animated-avatars-nautas) — GIF avatars, separate for profile and user card (fork of [discourse](https://github.com/discourse/discourse-animated-avatars))
 - [discourse-search-nautas](https://github.com/somos-criptonautas/discourse-search-nautas) — suggests our SearXNG instance when a search returns nothing (fork of [notriddle](https://github.com/notriddle/discourse-duckduckgo-search))
+- [f-nav-for-mobile-nautas](https://github.com/somos-criptonautas/f-nav-for-mobile-nautas) — mobile bottom bar, also on `/chat` in place of the chat footer, with a way back to the forum (fork of [VaperinaDEV](https://github.com/VaperinaDEV/f-nav-for-mobile))
 - [discourse-theme-skills](https://github.com/somos-criptonautas/discourse-theme-skills) — Claude Code skills for Discourse theme development (fork of [discourse](https://github.com/discourse/discourse-theme-skills))
 
 ### Ghost
