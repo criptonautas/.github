@@ -20,7 +20,7 @@ Everything below is active. Archived experiments are not listed.
 
 ### Discourse — ours
 
-- [discourse-wiki-coauthors](https://github.com/criptonautas/discourse-wiki-coauthors) — credits everyone who edited a wiki post, under the post
+- [discourse-wiki-coeditors](https://github.com/criptonautas/discourse-wiki-coeditors) — credits everyone who edited a wiki post, under the post
 - [discourse-horizon-topic-thumbnails](https://github.com/criptonautas/discourse-horizon-topic-thumbnails) — topic thumbnails and a last-reply pill on Horizon's high context topic cards
 - [discourse-horizon-ai-gists](https://github.com/criptonautas/discourse-horizon-ai-gists) — discourse-ai topic gists on Horizon's topic cards
 - [discourse-full-embedded-posts-nautas](https://github.com/criptonautas/discourse-full-embedded-posts-nautas) — render embedded blog posts in full instead of an excerpt; long tagged articles fold behind Show more
@@ -38,6 +38,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-disable-keyboard-shortcuts](https://github.com/criptonautas/discourse-disable-keyboard-shortcuts) — turns off Discourse's keyboard shortcuts for everyone
 - [discourse-nautas-mascot](https://github.com/criptonautas/discourse-nautas-mascot) — anonist, the community mascot, in the search field, with frames for the blog
 - [discourse-closed-sidebar-nautas](https://github.com/criptonautas/discourse-closed-sidebar-nautas) — hide the sidebar by default
+- [discourse-kuno-nautas](https://github.com/criptonautas/discourse-kuno-nautas) — Monero fundraisers as forum topics, with a progress bar fed by a watch-only wallet
 - [discourse-kuno-banner](https://github.com/criptonautas/discourse-kuno-banner) — daily homepage banner for #kuno topics and the Kuno fundraisers we support
 - [discourse-nautas-paper-trading](https://github.com/criptonautas/discourse-nautas-paper-trading) — swing trading paper-trading artifact: 1,000 fictional USD on real 4h candles, a ranking nobody can inflate, 4-month seasons
 - [discourse-crypto-tickers-nautas](https://github.com/criptonautas/discourse-crypto-tickers-nautas) — crypto prices in USD from CoinGecko for the right sidebar, no percentages

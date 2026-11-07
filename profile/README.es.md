@@ -20,7 +20,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 
 ### Discourse — propios
 
-- [discourse-wiki-coauthors](https://github.com/criptonautas/discourse-wiki-coauthors) — da crédito a todas las personas que editaron un post wiki, bajo el post
+- [discourse-wiki-coeditors](https://github.com/criptonautas/discourse-wiki-coeditors) — da crédito a todas las personas que editaron un post wiki, bajo el post
 - [discourse-horizon-topic-thumbnails](https://github.com/criptonautas/discourse-horizon-topic-thumbnails) — miniaturas y la última respuesta en las tarjetas de temas de alto contexto de Horizon
 - [discourse-horizon-ai-gists](https://github.com/criptonautas/discourse-horizon-ai-gists) — resúmenes de IA de discourse-ai en las tarjetas de temas de Horizon
 - [discourse-full-embedded-posts-nautas](https://github.com/criptonautas/discourse-full-embedded-posts-nautas) — muestra completos los posts del blog incrustados, no un extracto; los artículos largos etiquetados se pliegan tras "Mostrar más"
@@ -38,6 +38,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-disable-keyboard-shortcuts](https://github.com/criptonautas/discourse-disable-keyboard-shortcuts) — desactiva para todos los atajos de teclado de Discourse
 - [discourse-nautas-mascot](https://github.com/criptonautas/discourse-nautas-mascot) — anonist, la mascota de la comunidad, en el campo de búsqueda, con poses para el blog
 - [discourse-closed-sidebar-nautas](https://github.com/criptonautas/discourse-closed-sidebar-nautas) — barra lateral oculta por defecto
+- [discourse-kuno-nautas](https://github.com/criptonautas/discourse-kuno-nautas) — campañas de recaudación en Monero como temas del foro, con una barra de progreso que lee un monedero de solo lectura
 - [discourse-kuno-banner](https://github.com/criptonautas/discourse-kuno-banner) — aviso diario en la portada con temas #kuno y las recaudaciones de Kuno que apoyamos
 - [discourse-nautas-paper-trading](https://github.com/criptonautas/discourse-nautas-paper-trading) — paper trading de swing en un artifact: 1.000 USD ficticios sobre velas reales de 4h, un ranking que nadie puede inflar, temporadas de 4 meses
 - [discourse-crypto-tickers-nautas](https://github.com/criptonautas/discourse-crypto-tickers-nautas) — precios cripto en USD desde CoinGecko para la barra lateral derecha, sin porcentajes
