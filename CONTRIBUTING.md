@@ -1,15 +1,15 @@
 # Contributing to Criptonautas
 
-Applies to every repo in [somos-criptonautas](https://github.com/somos-criptonautas)
+Applies to every repo in [criptonautas](https://github.com/criptonautas)
 that doesn't ship its own guide. The repo list lives on the
-[org profile](https://github.com/somos-criptonautas).
+[org profile](https://github.com/criptonautas).
 
 ## Before you open a PR
 
 Several repos are forks. If your fix is not specific to our forum or site,
 send it upstream instead — the parent repo is linked in the fork's README and
 on the org profile. Upstream fixes reach everyone and keep our diff small enough
-to rebase. A weekly job in [actions](https://github.com/somos-criptonautas/actions)
+to rebase. A weekly job in [actions](https://github.com/criptonautas/actions)
 opens an issue when a fork falls behind its upstream.
 
 Forks credit the original authors in `plugin.rb` / `about.json` as
@@ -20,7 +20,7 @@ Forks credit the original authors in `plugin.rb` / `about.json` as
 1. Fork the repo and branch off `main`.
 2. Keep the diff minimal. On forks, do not reformat or reorganize upstream
    files — every unrelated line makes the next upstream merge harder.
-3. Open the PR against `somos-criptonautas/<repo>:main`, and say what it changes
+3. Open the PR against `criptonautas/<repo>:main`, and say what it changes
    and how you tested it.
 
 ## Discourse plugins and theme components
@@ -81,4 +81,4 @@ Report vulnerabilities privately, as explained in [SECURITY.md](SECURITY.md).
 
 ## Questions
 
-Open a [Discussion](https://github.com/orgs/somos-criptonautas/discussions).
+Open a [Discussion](https://github.com/orgs/criptonautas/discussions).

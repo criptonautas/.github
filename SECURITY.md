@@ -1,6 +1,6 @@
 # Security
 
-Applies to every repo in [somos-criptonautas](https://github.com/somos-criptonautas).
+Applies to every repo in [criptonautas](https://github.com/criptonautas).
 
 ## Reporting a vulnerability
 

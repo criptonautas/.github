@@ -1,7 +1,7 @@
 # Code of conduct
 
 Applies to issues, pull requests and discussions in
-[somos-criptonautas](https://github.com/somos-criptonautas).
+[criptonautas](https://github.com/criptonautas).
 
 - Discuss the work, not the person. Disagreeing is fine; insults, harassment and
   discrimination are not.
