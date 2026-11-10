@@ -23,6 +23,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-wiki-coeditors](https://github.com/criptonautas/discourse-wiki-coeditors) — da crédito a todas las personas que editaron un post wiki, bajo el post
 - [discourse-horizon-topic-thumbnails](https://github.com/criptonautas/discourse-horizon-topic-thumbnails) — miniaturas y la última respuesta en las tarjetas de temas de alto contexto de Horizon
 - [discourse-horizon-ai-gists](https://github.com/criptonautas/discourse-horizon-ai-gists) — resúmenes de IA de discourse-ai en las tarjetas de temas de Horizon
+- [discourse-local-onebox-nautas](https://github.com/criptonautas/discourse-local-onebox-nautas) — los oneboxes de temas del propio foro muestran el resumen de IA o el extracto del tema y su portada
 - [discourse-full-embedded-posts-nautas](https://github.com/criptonautas/discourse-full-embedded-posts-nautas) — muestra completos los posts del blog incrustados, no un extracto; los artículos largos etiquetados se pliegan tras "Mostrar más"
 - [discourse-doc-categories-tags](https://github.com/criptonautas/discourse-doc-categories-tags) — integra los temas con una etiqueta en la lista propia de una categoría y los trata como documentación
 - [discourse-custom-home-nautas](https://github.com/criptonautas/discourse-custom-home-nautas) — bloques de portada con la marca y el progreso de rango por badges
@@ -66,7 +67,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 
 - [brand-kit](https://github.com/criptonautas/brand-kit) — logo, color, tipografía, voz, plantillas y textos de los sitios; la fuente de [criptonautas.co/kit](https://criptonautas.co/kit)
 - [criptonautas-featured-ghost-filter](https://github.com/criptonautas/criptonautas-featured-ghost-filter) — lleva las imágenes destacadas de Ghost al estilo de la marca: paleta de 5 colores, trama y líneas de tinta
-- [criptonautas-featured-cover](https://github.com/criptonautas/criptonautas-featured-cover) — genera portadas 1200×630 de la marca para los posts de Ghost sin imagen destacada y para los topics de wiki, curso y glosario de Discourse
+- [criptonautas-featured-cover](https://github.com/criptonautas/criptonautas-featured-cover) — genera portadas 1200×630 de la marca para los posts de Ghost sin imagen destacada y para los topics de wiki, curso y glosario de Discourse y portadas para las etiquetas del blog
 - [criptonautas-pdf](https://github.com/criptonautas/criptonautas-pdf) — documentos de la comunidad en PDF desde Markdown, reproducibles y sin metadatos
 - [criptonautas-slides](https://github.com/criptonautas/criptonautas-slides) — presentaciones de la comunidad en un solo archivo HTML que funciona sin conexión
 

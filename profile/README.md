@@ -23,6 +23,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-wiki-coeditors](https://github.com/criptonautas/discourse-wiki-coeditors) — credits everyone who edited a wiki post, under the post
 - [discourse-horizon-topic-thumbnails](https://github.com/criptonautas/discourse-horizon-topic-thumbnails) — topic thumbnails and a last-reply pill on Horizon's high context topic cards
 - [discourse-horizon-ai-gists](https://github.com/criptonautas/discourse-horizon-ai-gists) — discourse-ai topic gists on Horizon's topic cards
+- [discourse-local-onebox-nautas](https://github.com/criptonautas/discourse-local-onebox-nautas) — internal topic oneboxes with the topic's AI gist or excerpt and its cover
 - [discourse-full-embedded-posts-nautas](https://github.com/criptonautas/discourse-full-embedded-posts-nautas) — render embedded blog posts in full instead of an excerpt; long tagged articles fold behind Show more
 - [discourse-doc-categories-tags](https://github.com/criptonautas/discourse-doc-categories-tags) — mixes topics with a tag into one category's own topic list and treats them as docs
 - [discourse-custom-home-nautas](https://github.com/criptonautas/discourse-custom-home-nautas) — branded homepage blocks with badge-based tier progress
@@ -66,7 +67,7 @@ Everything below is active. Archived experiments are not listed.
 
 - [brand-kit](https://github.com/criptonautas/brand-kit) — logo, colour, type, voice, templates and site texts; the source of [criptonautas.co/kit](https://criptonautas.co/kit)
 - [criptonautas-featured-ghost-filter](https://github.com/criptonautas/criptonautas-featured-ghost-filter) — turns Ghost featured images into the brand look: 5-color palette, halftone and ink lines
-- [criptonautas-featured-cover](https://github.com/criptonautas/criptonautas-featured-cover) — draws 1200×630 brand covers for Ghost posts without a featured image and for Discourse wiki, course and glossary topics
+- [criptonautas-featured-cover](https://github.com/criptonautas/criptonautas-featured-cover) — draws 1200×630 brand covers for Ghost posts without a featured image and for Discourse wiki, course and glossary topics and blog tag covers
 - [criptonautas-pdf](https://github.com/criptonautas/criptonautas-pdf) — community documents as PDF from Markdown, reproducible and without metadata
 - [criptonautas-slides](https://github.com/criptonautas/criptonautas-slides) — community slide decks as one offline HTML file
 
