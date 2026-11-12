@@ -74,6 +74,7 @@ Everything below is active. Archived experiments are not listed.
 ### Other
 
 - [f-trader](https://github.com/criptonautas/f-trader) — trade log and position sizing in one static page; nothing leaves the browser
+- [criptonautas-files-preview](https://github.com/criptonautas/criptonautas-files-preview) — sign-in preview for Files, the collective library
 - [comunidad-criptonautas-app](https://github.com/criptonautas/comunidad-criptonautas-app) — Android app for the community
 - [nautas-skills](https://github.com/criptonautas/nautas-skills) — community skills (forum voice, glossary, wikis, course, brand, PDF and slides) and MCP for AI agents
 - [n8n-workflows](https://github.com/criptonautas/n8n-workflows) — backup of our n8n workflows

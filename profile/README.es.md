@@ -74,6 +74,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 ### Otros
 
 - [f-trader](https://github.com/criptonautas/f-trader) — registro de trades y tamaño de posición en una página estática; nada sale del navegador
+- [criptonautas-files-preview](https://github.com/criptonautas/criptonautas-files-preview) — previsualización de inicio de sesión de Files, la biblioteca colectiva
 - [comunidad-criptonautas-app](https://github.com/criptonautas/comunidad-criptonautas-app) — app de Android de la comunidad
 - [nautas-skills](https://github.com/criptonautas/nautas-skills) — skills de la comunidad (voz del foro, glosario, wikis, curso, marca, PDF y presentaciones) y MCP para agentes de IA
 - [n8n-workflows](https://github.com/criptonautas/n8n-workflows) — respaldo de nuestros workflows de n8n
