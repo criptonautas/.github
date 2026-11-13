@@ -56,6 +56,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-search-nautas](https://github.com/criptonautas/discourse-search-nautas) — suggests our SearXNG instance when a search returns nothing (fork of [notriddle](https://github.com/notriddle/discourse-duckduckgo-search))
 - [f-nav-for-mobile-nautas](https://github.com/criptonautas/f-nav-for-mobile-nautas) — mobile bottom bar, also on `/chat` in place of the chat footer, with a way back to the forum (fork of [VaperinaDEV](https://github.com/VaperinaDEV/f-nav-for-mobile))
 - [discourse-theme-skills](https://github.com/criptonautas/discourse-theme-skills) — Claude Code skills for Discourse theme development (fork of [discourse](https://github.com/discourse/discourse-theme-skills))
+- [discourse-suggested-edits-nautas](https://github.com/criptonautas/discourse-suggested-edits-nautas) — members suggest edits to first posts and reviewers approve them change by change, with several suggestions per post at once (fork of [discourse](https://github.com/discourse/discourse-suggested-edits))
 
 ### Ghost
 
